@@ -1,0 +1,13 @@
+Added Component: Designator=H1(M2Hole)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H2(M2Hole)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H3(M2Hole)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H4(M2Hole)
+Add component. Clean all parameters for all variants
+Added Member To Class: ClassName=BasicSAMD21 Member=Component H1 M2Hole
+Added Member To Class: ClassName=BasicSAMD21 Member=Component H2 M2Hole
+Added Member To Class: ClassName=BasicSAMD21 Member=Component H3 M2Hole
+Added Member To Class: ClassName=BasicSAMD21 Member=Component H4 M2Hole
+Added Room: Name=BasicSAMD21

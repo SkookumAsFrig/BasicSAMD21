@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=VOUT Pin=HDR4-4
+Added Pin To Net: NetName=GND Pin=HDR4-4
+Added Room: Name=BasicSAMD21

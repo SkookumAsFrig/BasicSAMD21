@@ -1,0 +1,20 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of PCB Document [BasicSAMD21.PcbDoc]
+   Generated File[BasicSAMD21.GTL]
+   Generated File[BasicSAMD21.GBL]
+   Generated File[BasicSAMD21.GTO]
+   Generated File[BasicSAMD21.GTP]
+   Generated File[BasicSAMD21.GTS]
+   Generated File[BasicSAMD21.GBS]
+   Generated File[BasicSAMD21.GBP]
+   Generated File[BasicSAMD21.GBO]
+   Generated File[BasicSAMD21.RUL]
+   Generated File[BasicSAMD21.EXTREP]
+   Generated File[BasicSAMD21.REP]
+
+
+Files Generated   : 11
+Documents Printed : 0
+
+Finished Output Generation At 2:48:28 AM On 12/19/2018

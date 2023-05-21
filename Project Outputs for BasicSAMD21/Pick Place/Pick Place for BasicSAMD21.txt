@@ -1,0 +1,48 @@
+Altium Designer Pick and Place Locations
+E:\Altium\BasicSAMD21\BasicSAMD21\Project Outputs for BasicSAMD21\Pick Place\Pick Place for BasicSAMD21.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       19/12/18
+Time:       20:59
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+Designator Comment                 Layer    Footprint Center-X(mm) Center-Y(mm) Rotation Description                                                                                   
+U1         ATSAMD21G18             TopLayer TQFP48    41.826       35.723       0        IC MCU 32BIT 256KB FLASH 48TQFP                                                               
+SW1        1825910-6               TopLayer 1825910-6 33.100       55.800       0        SWITCH TACTILE SPST-NO 0.05A 24V                                                              
+R5         1k R                    TopLayer R0805     31.800       44.500       360      RES SMD 1K OHM 1% 1/8W 0805                                                                   
+R4         1k R                    TopLayer R0805     34.700       31.400       180      RES SMD 1K OHM 1% 1/8W 0805                                                                   
+R3         1k R                    TopLayer R0805     36.900       47.900       180      RES SMD 1K OHM 1% 1/8W 0805                                                                   
+R2         1k R                    TopLayer R0805     53.500       33.800       270      RES SMD 1K OHM 1% 1/8W 0805                                                                   
+R1         1k R                    TopLayer R0805     47.100       50.200       0        RES SMD 1K OHM 1% 1/8W 0805                                                                   
+OSC1       FC-135_32KHZ            TopLayer FC-135    34.968       39.533       270      32.768kHz °¿20ppm Crystal 12.5pF 50 kOhm -40°„C ~ 85°„C  Surface Mount 2-SMD, No Lead (DFN, LCC) 
+LDO1       LDO_AMS11173.3_SOT-223  TopLayer SOT223    49.000       45.400       90       LDO_AMS11173.3_SOT-223                                                                        
+J1         10118193-0001LF         TopLayer 10118193  58.200       45.000       90       CONN USB MICRO B RECPT SMT R/A                                                                
+HDR4       2.54HDR_12POS           TopLayer DIP12     45.000       63.200       270      2.54HDR_12POS                                                                                 
+HDR3       2.54HDR_12POS           TopLayer DIP12     45.000       25.800       90       2.54HDR_12POS                                                                                 
+HDR2       JTAG10Pin               TopLayer JTAG10    44.800       54.800       360      JTAG10Pin                                                                                     
+HDR1       2.54HDR_12POS           TopLayer DIP12     26.800       44.500       0        2.54HDR_12POS                                                                                 
+FB3        FerriteBead0R800mA_0603 TopLayer C0603     54.100       47.700       270      FerriteBead0R800mA_0603                                                                       
+FB2        FerriteBead0R800mA_0603 TopLayer C0603     54.100       44.000       270      FerriteBead0R800mA_0603                                                                       
+FB1        FerriteBead0R800mA_0603 TopLayer C0603     40.200       47.100       270      FerriteBead0R800mA_0603                                                                       
+D4         Orange                  TopLayer LED_0603  31.300       31.600       0        LED ORANGE DIFFUSED 0603 SMD                                                                  
+D3         Orange                  TopLayer LED_0603  35.100       50.100       0        LED ORANGE DIFFUSED 0603 SMD                                                                  
+D2         Orange                  TopLayer LED_0603  56.400       32.900       180      LED ORANGE DIFFUSED 0603 SMD                                                                  
+D1         Orange                  TopLayer LED_0603  50.400       49.900       180      LED ORANGE DIFFUSED 0603 SMD                                                                  
+C10        10uF/16V                TopLayer C0805     57.200       51.400       180      CAP CER 10UF 16V X5R 0805                                                                     
+C9         10uF/16V                TopLayer C0805     43.400       46.700       270      CAP CER 10UF 16V X5R 0805                                                                     
+C8         1uF/25V                 TopLayer C0805     42.600       43.600       180      CAP CER 1UF 25V X5R 0805                                                                      
+C7         100nF                   TopLayer C0805     50.700       39.300       90       CAP CER 0.1UF 50V X7R 0805                                                                    
+C6         10uF/16V                TopLayer C0805     48.300       39.300       90       CAP CER 10UF 16V X5R 0805                                                                     
+C5         100nF                   TopLayer C0805     53.000       39.300       90       CAP CER 0.1UF 50V X7R 0805                                                                    
+C4         100nF                   TopLayer C0805     33.400       34.800       90       CAP CER 0.1UF 50V X7R 0805                                                                    
+C3         10uF/16V                TopLayer C0805     31.300       34.800       90       CAP CER 10UF 16V X5R 0805                                                                     
+C2         15pF_0603               TopLayer C0603     32.047       40.803       180      15pF_0603                                                                                     
+C1         15pF_0603               TopLayer C0603     32.047       38.263       180      15pF_0603                                                                                     
+H1         M2Hole                  TopLayer M2Hole    26.100       25.600       0        M2Hole                                                                                        
+H2         M2Hole                  TopLayer M2Hole    26.100       63.400       0        M2Hole                                                                                        
+H3         M2Hole                  TopLayer M2Hole    59.600       36.000       0        M2Hole                                                                                        
+H4         M2Hole                  TopLayer M2Hole    59.600       55.000       0        M2Hole                                                                                        
